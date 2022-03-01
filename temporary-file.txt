@@ -1,4 +1,4 @@
 This file created to practice Version Control
-Second line was written
+Second line was written, and now it was changed
 third line was written
 fourth line was written
